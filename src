@@ -1,0 +1,11 @@
+<script>start("/Users/bernyangelroy/Documents/AICTE-Internship-P2-Week1-1/src/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("components","components",1,256,"256 B",1740307851,"23/02/2025, 16:20:51");</script>
+<script>addRow("App.css","App.css",0,2169,"2.1 kB",1740305084,"23/02/2025, 15:34:44");</script>
+<script>addRow("App.js","App.js",0,836,"836 B",1740307374,"23/02/2025, 16:12:54");</script>
+<script>addRow("App.test.js","App.test.js",0,246,"246 B",1740305084,"23/02/2025, 15:34:44");</script>
+<script>addRow("index.css","index.css",0,366,"366 B",1740305084,"23/02/2025, 15:34:44");</script>
+<script>addRow("index.js","index.js",0,535,"535 B",1740305084,"23/02/2025, 15:34:44");</script>
+<script>addRow("logo.svg","logo.svg",0,2632,"2.6 kB",1740305084,"23/02/2025, 15:34:44");</script>
+<script>addRow("reportWebVitals.js","reportWebVitals.js",0,362,"362 B",1740305084,"23/02/2025, 15:34:44");</script>
+<script>addRow("setupTests.js","setupTests.js",0,241,"241 B",1740305084,"23/02/2025, 15:34:44");</script>
